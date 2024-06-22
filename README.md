@@ -41,3 +41,6 @@
   ```bash
    npm run test
    ```
+
+## API Documentation
+https://app.swaggerhub.com/apis-docs/kareemalaa555/Slash/1.0.0#/
